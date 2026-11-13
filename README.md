@@ -1,48 +1,44 @@
 # Bryan Gabriel Botelho de Oliveira
 
-Técnico em Internet das Coisas pelo Senac, em curso, e pretendo seguir para Análise e Desenvolvimento de Sistemas. Procuro a primeira vaga como desenvolvedor júnior em São Paulo.
-
-Tenho interesse em desenvolvimento web, automação e jogos. Gosto de entender como as coisas funcionam por dentro, do login à gravação de dados, e de transformar ideias em projetos que as pessoas possam usar.
+Aspiring junior developer in São Paulo, Brazil. Technical student in Internet of Things (IoT) at Senac, planning to continue in Systems Analysis and Development.
 
 ---
 
 ## Stack
 
-Uso no dia a dia:
-
 [![Skills](https://skillicons.dev/icons?i=js,html,css,firebase,git,github)](https://github.com/brainharsrs)
 
-Em estudo:
-
-[![Skills](https://skillicons.dev/icons?i=arduino)](https://github.com/brainharsrs) ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white) ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-E2231A?style=flat-square&logo=roblox&logoColor=white)
+Currently learning: [![Skills](https://skillicons.dev/icons?i=arduino)](https://github.com/brainharsrs) ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white) ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-E2231A?style=flat-square&logo=roblox&logoColor=white)
 
 ---
 
-## Projetos
+## Projects
 
-| Projeto | O que é | Links |
+| Project | Description | Links |
 |---|---|---|
-| TaskFlow | Gerenciador de tarefas com cadastro, login, recuperação de senha e tarefas separadas por usuário. Feito com Firebase Authentication e Cloud Firestore, com regras de acesso por usuário. | [Código](https://github.com/brainharsrs/TaskFlow) · [Demonstração](https://taskflow-br.web.app/) |
-| Dono de Estacionamento | Jogo de simulação no Roblox em que o jogador administra e expande o próprio estacionamento: um estacionamento original e mais 11 temáticos, com progressão e economia virtual. | [Jogar](https://www.roblox.com/share?code=89100ae26ba25345a736a35cd8208823&type=ExperienceDetails) |
+| TaskFlow | Task manager with sign-up, login, password recovery, and per-user data. Built with Firebase Authentication and Cloud Firestore. | [Code](https://github.com/brainharsrs/TaskFlow) · [Live demo](https://taskflow-br.web.app/) |
+| Entrega Caótica | Delivery game on Roblox with upgrades, rebirth, and a shop with Game Passes and Developer Products. Progress is saved with DataStore, and purchases are validated on the server. | Roblox (link to add) |
+| Dono de Estacionamento | Management game on Roblox where players run and expand their own parking lot, with progression and a virtual economy. | [Play](https://www.roblox.com/share?code=89100ae26ba25345a736a35cd8208823&type=ExperienceDetails) |
 
 ---
 
-## Experiência
+## Experience
 
-- **Visita técnica à Sandvik:** participação em visita ao ambiente industrial, com contato com processos tecnológicos e aplicações de engenharia.
-
----
-
-## Formação
-
-- **Técnico em Internet das Coisas (IoT)**, Senac, 2024 a 2026, em curso.
-- **Análise e Desenvolvimento de Sistemas (ADS)**, Senac, ingresso previsto para 2027.
+- Technical visit to Sandvik, observing industrial processes and engineering applications.
 
 ---
 
-## Contato
+## Education
 
-| Canal | Link |
+- **Technical degree in Internet of Things (IoT)**, Senac, 2024–2026 (in progress)
+- **Systems Analysis and Development (ADS)**, Senac, planned enrollment [year]
+
+---
+
+## Contact
+
+| Channel | Link |
 |---|---|
 | LinkedIn | [Bryan Gabriel Botelho de Oliveira](https://www.linkedin.com/in/bryan-gabriel-botelho-de-oliveira-4832b5444) |
-| E-mail | [Bryan.Gabriel.Botelho@gmail.com](mailto:Bryan.Gabriel.Botelho@gmail.com) |
+| Email | [bryan.gabriel.botelho@gmail.com](mailto:bryan.gabriel.botelho@gmail.com) |
+| Instagram | [@brainha.7xs](https://www.instagram.com/brainha.7xs/) |
