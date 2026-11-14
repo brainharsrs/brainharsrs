@@ -10,7 +10,7 @@ I build web apps with JavaScript and Firebase, and games on Roblox with Luau. I 
 
 **Languages and web**
 
-[![Skills](https://skillicons.dev/icons?i=js,python,html,css)](https://github.com/brainharsrs)
+[![Skills](https://skillicons.dev/icons?i=js,python,html,css,cs,unity)](https://github.com/brainharsrs)
 
 **Cloud, tools, and hardware**
 
