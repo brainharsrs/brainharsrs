@@ -25,12 +25,24 @@ Currently learning: [![Skills](https://skillicons.dev/icons?i=arduino)](https://
 
 - Technical visit to Sandvik, observing industrial processes and engineering applications.
 
+## Certifications
+
+Cisco Networking Academy, delivered through Senac:
+
+| Course | Completed |
+|---|---|
+| Introduction to Cybersecurity | Mar 2026 |
+| JavaScript Essentials 1 | Nov 2025 |
+| Cyber Threat Management | Sep 2025 |
+| Networking Basics | Jun 2025 |
+| Network Defense | Mar 2025 |
+
 ---
 
 ## Education
 
 - **Technical degree in Internet of Things (IoT)**, Senac, 2024–2026 (in progress)
-- **Systems Analysis and Development (ADS)**, Senac, planned enrollment [year]
+- **Systems Analysis and Development (ADS)**, Senac, planned enrollment [2027]
 
 ---
 
