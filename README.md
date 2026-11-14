@@ -17,7 +17,6 @@ Currently learning: [![Skills](https://skillicons.dev/icons?i=arduino)](https://
 | Project | Description | Links |
 |---|---|---|
 | TaskFlow | Task manager with sign-up, login, password recovery, and per-user data. Built with Firebase Authentication and Cloud Firestore. | [Code](https://github.com/brainharsrs/TaskFlow) · [Live demo](https://taskflow-br.web.app/) |
-| Entrega Caótica | Delivery game on Roblox with upgrades, rebirth, and a shop with Game Passes and Developer Products. Progress is saved with DataStore, and purchases are validated on the server. | Roblox (link to add) |
 | Dono de Estacionamento | Management game on Roblox where players run and expand their own parking lot, with progression and a virtual economy. | [Play](https://www.roblox.com/share?code=89100ae26ba25345a736a35cd8208823&type=ExperienceDetails) |
 
 ---
