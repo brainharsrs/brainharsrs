@@ -20,7 +20,7 @@ I build web apps with JavaScript and Firebase, and games on Roblox with Luau. I 
 
 **IDEs and editors**
 
-[![Skills](https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,eclipse)](https://github.com/brainharsrs) ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-E2231A?style=flat-square&logo=roblox&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=vscode,antigravity,pycharm,idea,androidstudio,eclipse)](https://github.com/brainharsrs) ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-E2231A?style=flat-square&logo=roblox&logoColor=white)
 
 **Games**
 
