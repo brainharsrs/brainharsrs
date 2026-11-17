@@ -2,15 +2,17 @@
 
 Aspiring junior developer based in São Paulo, Brazil. Technical student in Internet of Things (IoT) at Senac, planning to continue in Systems Analysis and Development.
 
-I build web apps with JavaScript and Firebase, and games on Roblox with Luau. I also studied Python, networking, and cybersecurity.
+I build mobile apps with Flutter, web apps with JavaScript and Firebase, and games on Roblox with Luau. I also studied Python, networking, and cybersecurity.
+
+**Portfolio:** [bryan-botelho.web.app](https://bryan-botelho.web.app/)
 
 ---
 
 ## Stack
 
-**Languages and web**
+**Languages, mobile, and web**
 
-[![Skills](https://skillicons.dev/icons?i=js,python,html,css,cs,unity)](https://github.com/brainharsrs)
+[![Skills](https://skillicons.dev/icons?i=dart,flutter,js,python,html,css,cs,unity)](https://github.com/brainharsrs)
 
 **Cloud, tools, and hardware**
 
@@ -32,6 +34,23 @@ I build web apps with JavaScript and Firebase, and games on Roblox with Luau. I 
 ---
 
 ## Projects
+
+### DRIP
+
+<a href="https://github.com/brainharsrs/DRIP"><img src="https://raw.githubusercontent.com/brainharsrs/DRIP/main/docs/screens/estilingue.gif" width="180" align="right" alt="DRIP's Want List slingshot being pulled and launched"></a>
+
+A Flutter app that tracks sneaker and streetwear releases: what drops today, what is coming next, and a link to each brand's official store. It does not sell anything.
+
+- Saving to the Want List is a slingshot gesture with hand-written physics: elastic stretch, haptic notches, gravity, bounce, and a spring return.
+- Liquid glass written as a GLSL fragment shader: edge refraction, chromatic fringe, and specular light.
+- Firebase Authentication (email and Google), Cloud Firestore with field-validating security rules, and a local emulator setup with seed data.
+- Runs on Android, iOS, web, and Windows from one codebase, with 72 automated tests.
+
+[Code](https://github.com/brainharsrs/DRIP) · [Case study](https://bryan-botelho.web.app/#drip)
+
+<br clear="right">
+
+### Other projects
 
 | Project | Description | Links |
 |---|---|---|
